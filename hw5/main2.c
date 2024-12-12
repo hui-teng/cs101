@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <math.h>
 int main()  {
     double pi = 0.0;
     int x = 0;
